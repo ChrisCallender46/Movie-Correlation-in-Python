@@ -1,0 +1,1 @@
+In this project, I used Jupyter Notebook and libraries such as pandas, seaborn, numpy, and matplotlib to clean and analyze movie data. I studied correlation and determined that a movie's budget and its gross revenue are highly correlated.
